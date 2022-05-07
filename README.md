@@ -1,0 +1,1 @@
+# open-vindriktning-firmware-github
